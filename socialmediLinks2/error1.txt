@@ -1,0 +1,24 @@
+Embassy Name:  Fijian   High Commission  in London 
+Website: mailto:inikoro@fijihighcommission.org.uk
+Error: Request Exception: No connection adapters were found for 'mailto:inikoro@fijihighcommission.org.uk'
+
+Embassy Name:  Fijian   High Commission  in London 
+Website: mailto:mn_turagabeci@fijihighcommission.org.uk
+Error: Request Exception: No connection adapters were found for 'mailto:mn_turagabeci@fijihighcommission.org.uk'
+
+Embassy Name:  Fijian   High Commission  in London 
+Website: mailto:mail@fijihighcommission.org.uk
+Error: Request Exception: No connection adapters were found for 'mailto:mail@fijihighcommission.org.uk'
+
+Embassy Name:  Fijian   High Commission  in London 
+Website: maiilto:pcakacaka@fijihighcommission.org.uk
+Error: Request Exception: No connection adapters were found for 'maiilto:pcakacaka@fijihighcommission.org.uk'
+
+Embassy Name:  Fijian   High Commission  in London 
+Website: mailto:fwilson@fijihighcommission.org.uk
+Error: Request Exception: No connection adapters were found for 'mailto:fwilson@fijihighcommission.org.uk'
+
+Embassy Name:  Fijian   High Commission  in London 
+Website: Javascript:MM_openBrWindow('map.html','Fiji_High_Commission_London','scrollbars=yes,resizable=yes,width=540,height=380')
+Error: Request Exception: No connection adapters were found for "Javascript:MM_openBrWindow('map.html','Fiji_High_Commission_London','scrollbars=yes,resizable=yes,width=540,height=380')"
+
